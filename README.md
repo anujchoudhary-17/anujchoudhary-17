@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anuj Choudhary</h1>
-<h3 align="center">A passionate Backend and Cloud Developer</h3>
+<h3 align="center"> Full Stack Developer | 2x AWS Certified | AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujchoudhary-17&label=Profile%20views&color=0e75b6&style=flat" alt="anujchoudhary-17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujchoudhary-17" alt="anujchoudhary-17" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anuj170701" target="blank"><img src="https://img.shields.io/twitter/follow/anuj170701?logo=twitter&style=for-the-badge" alt="anuj170701" /></a> </p>
+<p align="left"> <a href="https://twitter.com/anujstwt17" target="blank"><img src="https://img.shields.io/twitter/follow/anujstwt17?logo=twitter&style=for-the-badge" alt="anujstwt17" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
